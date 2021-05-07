@@ -1,6 +1,7 @@
 package main
 
 /*
+123
 ++ package dùng để nhóm 1 hoặc nhiều tập tin có liên quan đến nhau
 ++ tên package sử dụng in thường, định nghĩa ở đầu chương trình
 ++ tập để chạy chương trình thì tên là package main, đồn thời phải khởi tạp func main
